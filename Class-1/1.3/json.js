@@ -9,6 +9,7 @@
 // console.log(user["gender"]);
 
 // JSON.stringify //
+// converting a string to an object
 
 const user = {
   name: "anupam",
